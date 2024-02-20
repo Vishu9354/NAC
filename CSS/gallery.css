@@ -1,0 +1,39 @@
+.nav {
+    position: fixed;
+    width: 100vw;
+    z-index: 111000;
+}
+.nav .navbar{
+    width:100%;
+}
+.collapse{
+    position: absolute;
+    right: 80px;
+}
+
+.carousel-inner{
+    height:75vh;
+}
+.d-block{
+    height:75vh;
+}
+
+.gallery{
+/* background-color: aqua; */
+
+}
+.slide{
+    height: 500px;
+    width: 98vw;
+    overflow: hidden;
+}    
+.container{
+    display:flex;
+    justify-content: space-evenly;
+    margin-top: 75px;
+    bottom: 45%;
+}
+.container img{
+    height: 250px;
+    width: 250px;
+}

@@ -1,0 +1,29 @@
+.nav {
+    position: fixed;
+    width: 100vw;
+    z-index: 111000;
+}
+.nav .navbar{
+    width:100%;
+}
+.collapse{
+    position: absolute;
+    right: 80px;
+}
+
+.carousel-inner{
+    height:75vh;
+}
+.d-block{
+    height:75vh;
+}
+
+
+.contactContainer{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.contactContainer i{
+    font-size:75px;
+}

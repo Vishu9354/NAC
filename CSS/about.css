@@ -1,0 +1,82 @@
+.nav {
+    position: fixed;
+    width: 100vw;
+    height: 70px;
+    z-index: 111000;
+}
+.navbar-brand{
+    margin-left: 200px;
+}
+
+.nav .navbar{
+    width:100%;
+}
+.collapse{
+    position: absolute;
+    right: 200px;
+}
+
+
+.carousel-inner{
+    height:75vh;
+}
+.d-block{
+    height:75vh;
+}
+
+
+
+.abt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.abt .title{
+    margin-top: 25px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.abt .img{
+    margin-top: 25px;
+    width: 70vw;
+    height: 600px;
+    
+}
+.abt .cont{
+    margin-top: 25px;
+    width: 70vw;
+}
+
+
+.foot{
+    display: flex;
+    height: 500px;
+    justify-content: space-evenly;
+    background-color: #505050;
+    margin-top: 75px;
+}
+.NAC{
+    width: 30vw;
+    display: flex;
+    justify-content: center;
+}
+
+.footcontent{
+    margin-top: 75px;
+}
+
+
+.link{
+    width: 30vw;
+    display: flex;
+    justify-content: center;
+}
+.contact{
+    width: 30vw;
+    display: flex;
+    justify-content: center;
+}
