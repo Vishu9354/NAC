@@ -39,33 +39,3 @@ body{
 .container .card:hover{
     transform: translateY(-20px);
 }
-
-
-.foot{
-    display: flex;
-    height: 500px;
-    justify-content: space-evenly;
-    background-color: #505050;
-    margin-top: 70px;
-}
-.NAC{
-    width: 30vw;
-    display: flex;
-    justify-content: center;
-}
-
-.footcontent{
-    margin-top: 75px;
-}
-
-
-.link{
-    width: 30vw;
-    display: flex;
-    justify-content: center;
-}
-.contact{
-    width: 30vw;
-    display: flex;
-    justify-content: center;
-}

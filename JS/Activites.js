@@ -5,4 +5,4 @@ document.getElementById('show').onclick = function(){
 document.getElementById('close').onclick = function (){
     let element = document.getElementById('introofevent');
     element.classList.remove("showevent");
-}
+} 
